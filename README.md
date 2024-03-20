@@ -1,6 +1,6 @@
 # Marketing-Insights-for-F-B-Industry
 A Data Analytics Project aimed to provide insights on a business case in Food &amp; Beverage Industry
-
+<pre>
 Case Information -
 Comany: CodeX (German Beverage Company)
 Domain: Food & Beverage (F&B)
@@ -26,3 +26,4 @@ By creating an interactive dashboard with required components, raw survey data i
 -> Targeted Marketing Campaigns: Identify the most effective channels and messaging to reach specific demographics.
 -> Product Differentiation: Develop new flavors, functionalities, and marketing messages that resonate with Indian consumers.
 -> Competitive Advantage: Gain a deeper understanding of the Indian energy drink market and competitor strategies.
+</pre>
